@@ -66,6 +66,3 @@ touch project/notes.txt
 find . -name "notes.txt"
 ```
 
-## Next
-
-➡️ Continue to **05_links.md**
