@@ -58,7 +58,4 @@ ls -li
 
 `ls -li` shows the inode number, which helps understand how hard links work.
 
-## Next
-
-➡️ Continue to **06_wildcards.md**
 ```
