@@ -91,6 +91,3 @@ ls test*
 | `?` | Exactly one character |
 | `[]` | One character from a set |
 
-## Next
-
-➡️ Continue to **03_permissions_and_users/01_file_permissions.md**
