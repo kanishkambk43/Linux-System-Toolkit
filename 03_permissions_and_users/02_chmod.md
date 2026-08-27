@@ -88,6 +88,3 @@ ls -l script.sh
 | `chmod g+w file` | Add write for group |
 | `chmod o-r file` | Remove read from others |
 
-## Next
-
-➡️ Continue to **03_chown_chgrp.md**
