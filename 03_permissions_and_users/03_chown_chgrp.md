@@ -69,6 +69,3 @@ file.txt    → File
 | `chown user:group` | Change owner and group |
 | `-R` | Apply recursively |
 
-## Next
-
-➡️ Continue to **04_users_groups.md**
