@@ -68,6 +68,3 @@ su - username
 | `groups` | Show user's groups |
 | `su -` | Switch user |
 
-## Next
-
-➡️ Continue to **05_sudo.md**
