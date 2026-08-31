@@ -62,7 +62,3 @@ sudo chown user file.txt
 | `sudo -l` | Show sudo permissions |
 | `sudo -i` | Open root shell |
 | `exit` | Exit root shell |
-
-## Next
-
-➡️ Continue to **06_umask.md**
