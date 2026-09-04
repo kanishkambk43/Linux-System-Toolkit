@@ -70,5 +70,5 @@ ls -l
 | `umask` | Show current umask |
 | `umask 022` | Set umask |
 | `666` | Default file permissions |
-| `777` | Default directory permissions 
+| `777` | Default directory permissions |
 
