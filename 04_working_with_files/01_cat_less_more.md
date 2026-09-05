@@ -58,6 +58,3 @@ more file.txt
 | `less` | View file page by page |
 | `more` | View file page by page |
 
-## Next
-
-➡️ Continue to **02_head_tail.md**
