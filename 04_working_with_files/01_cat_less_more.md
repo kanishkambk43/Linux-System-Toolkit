@@ -57,4 +57,4 @@ more file.txt
 | `cat` | Display entire file |
 | `less` | View file page by page |
 
-
+| `more` | View file page by page |
