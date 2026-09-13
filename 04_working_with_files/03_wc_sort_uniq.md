@@ -87,6 +87,4 @@ sort file.txt | uniq -c
 | `uniq` | Remove consecutive duplicates |
 | `uniq -c` | Count duplicates |
 
-## Next
 
-➡️ Continue to **04_cut_paste.md**
