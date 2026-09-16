@@ -50,6 +50,3 @@ paste -d ',' file1.txt file2.txt
 | `paste` | Combine files side by side |
 | `paste -d` | Set delimiter |
 
-## Next
-
-➡️ Continue to **05_grep.md**
