@@ -77,6 +77,3 @@ grep -n "python" notes.txt
 
 This displays lines containing `python` along with their line numbers.
 
-## Next
-
-➡️ Continue to **06_sed.md**
