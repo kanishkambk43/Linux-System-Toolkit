@@ -7,7 +7,7 @@
 Search for a word in a file:
 
 ```bash
-grep "error" file.txt
+grep "error" file.txt #So the output is simply those matching lines
 ```
 
 ## 2. Case-Insensitive Search
