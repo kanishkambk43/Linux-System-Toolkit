@@ -97,6 +97,3 @@ sudo apt autoremove
 - `apt upgrade` upgrades installed software.
 - `sudo` provides administrative privileges for system-level operations.
 
-## Next
-
-➡️ Continue to **`02_apt_vs_apt_get.md`**
