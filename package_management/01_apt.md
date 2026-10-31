@@ -91,5 +91,9 @@ sudo apt autoremove
 | `apt show package` | Display package information |
 | `sudo apt autoremove` | Remove unused dependencies |
 
+## Important
 
+- `apt update` does not upgrade installed software.
+- `apt upgrade` upgrades installed software.
+- `sudo` provides administrative privileges for system-level operations.
 
