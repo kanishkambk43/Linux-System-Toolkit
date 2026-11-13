@@ -48,6 +48,6 @@ sudo apt-get upgrade
 | Upgrade packages | `apt upgrade` | `apt-get upgrade` |
 | Install software | `apt install git` | `apt-get install git` |
 | Remove software | `apt remove git` | `apt-get remove git` |
-| Remove unused packages | `apt autoremove` | `apt-get autoremove` |
+| Remove unused packages | `apt autoremove` | `apt-get autoremove` 
 
 
